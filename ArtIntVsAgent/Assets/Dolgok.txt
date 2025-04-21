@@ -1,0 +1,49 @@
+-- ha sokáig retreatel akkor punishment almost done (Na jó mégsem)
+-Reward system
+Nem tudom mit akartam csinálni
+--Mozgásért rewardot adni --done kb
+
+feketelyukas szar nem áll  le --done
+
+van amikor egy helyben megy a move animáció --szerintem ez is done
+
+nyilván az enemyk nem mozognak de az most lényegtelen. (A* ) --be van rakva a gridsystem
+
+NEM TUDOM TÁMADNI A MELEE ENEMYKET meg a kis enemyket --egyszerűbb kivenni
+túl sok ilyen fekete lyukat tesz le --punishment érte
+--nem feltétlen mozog
+cool
+
+érdekes amúgy hogy nincs hpja és nincs sebződés anim, majd megoldom
+
+
+
+
+
+
+ÚJ:
+MOZOG
+valamiért random gyorsan meg az anim se jó de megoldom --MEGOLDOTTAm
+túl sok ilyen fekete lyukat tesz le --punishment érte --DONE
+
+VOIDRIFTET és Black holet átírni playerről valamint
+
+
+VOIDRIFTET AMÚGY MÉG MEG KEL OLDANOM KÉSZ
+
+
+EndEpisode kell ha meghal az agent meg mondjuk az ai
+Még túl közel engedi magához az Agent
+Nem updatelődik az AI facing directionje
+
+
+
+Valamiért a black hole rossz, nem húzza be a ZolaBossImitationt és a ZolaImitationt pedig rángatja
+--FELSŐ HALFWAY DONE
+Random középen húz fel dolgokat (spatial meg egyebek) -DONE
+Felugrik mindkettő akkor nem tudják hol a másik és a sima AI fenn marad -DONE
+Még mindig nem elég mozgékony és egymást ütik -Hát ez félig amúgy, mozog meg minden
+Nem fordul a ZolaBossImitation az Agent felé, csak balra néz --i think done
+
+
+

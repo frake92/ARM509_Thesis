@@ -1,0 +1,3 @@
+repository "EKKE GameJam 24-2@ApeStudios_EKKE@cloud"
+  path "/"
+    smartbranch "/main/ML-Agents/PlayerVsAgent/ArtIntVsAgent"
