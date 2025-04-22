@@ -2,7 +2,7 @@
 # ARM509 Szakdolgozat – Erdész Réka  
 **Unity ML-Agents projekt: Három különböző tanítási rendszer összehasonlítása játékfejlesztésben**
 
-## 📁 Projektstruktúra
+## Projektstruktúra
 
 A projekt három különböző tanítási rendszert tartalmaz, mindegyik külön mappában található:
 
@@ -21,7 +21,7 @@ A projekt három különböző tanítási rendszert tartalmaz, mindegyik külön
 
 ---
 
-## 🧠 Betanított modellek
+## Betanított modellek
 
 A `Models/` mappában minden betanított modell megtalálható, tartalmaznak:
 - Checkpoint fájlokat
@@ -31,7 +31,7 @@ A modellek újrataníthatók vagy közvetlenül kipróbálhatók.
 
 ---
 
-## ⚙️ Tanítás lépései
+## Tanítás lépései
 
 ### 1. Projekt importálása Unity-be
 - Unity verzió: `6000.0.28f1` (telepítve a Unity Hubból)
@@ -65,7 +65,7 @@ pip install torch torchvision torchaudio
 
 ---
 
-## 🏋️‍♀️ Modell tanítása
+## Modell tanítása
 
 ### Alap parancs:
 
@@ -87,7 +87,7 @@ Ezután Unity-ben a **Play** gombbal indítható a szimuláció.
 
 ---
 
-## 📊 TensorBoard használata
+## TensorBoard használata
 
 A tanulási folyamat vizualizálásához:
 
@@ -102,13 +102,13 @@ tensorboard --logdir results/DesiredRunID
 
 ---
 
-## 🎯 Jutalmazási logika
+## Jutalmazási logika
 
 A jutalmazási rendszer minden esetben a Zola Agent kódjában van definiálva, az adott projekt `Agent` osztályában. Ezt szükség esetén érdemes testre szabni a kívánt tanulási viselkedés eléréséhez.
 
 ---
 
-## 📌 Összefoglalás
+## Összefoglalás
 
 Ez a projekt a **Unity ML-Agents** keretrendszerre épül, és három különböző tanítási módszert vizsgál:
 - Self-play
