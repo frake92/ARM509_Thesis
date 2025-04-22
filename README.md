@@ -1,8 +1,9 @@
 
 # ARM509 Szakdolgozat – Erdész Réka  
 **Unity Machine Learning Agents: Mesterséges intelligencia a videojátékokban**
-## Projektstruktúra
 Az összes betanított ügynök kipróbálható a release fül alatt található Quantum Crusaide v1.0 zip letöltésével
+## Projektstruktúra
+
 A projekt három különböző tanítási rendszert tartalmaz, mindegyik külön mappában található:
 
 ### 1. Agent vs Agent (Self-Play)
