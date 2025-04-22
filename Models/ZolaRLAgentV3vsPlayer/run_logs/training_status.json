@@ -1,0 +1,65 @@
+{
+    "ZolaRLAgentV3": {
+        "checkpoints": [
+            {
+                "steps": 66164,
+                "file_path": "results\\ZolaRLAgentV3\\ZolaRLAgentV3\\ZolaRLAgentV3-66164.onnx",
+                "reward": 1.3858520136111312,
+                "creation_time": 1744982616.9609075,
+                "auxillary_file_paths": [
+                    "results\\ZolaRLAgentV3\\ZolaRLAgentV3\\ZolaRLAgentV3-66164.pt"
+                ]
+            },
+            {
+                "steps": 70423,
+                "file_path": "results\\ZolaRLAgentV3\\ZolaRLAgentV3\\ZolaRLAgentV3-70423.onnx",
+                "reward": 1.2463509624358267,
+                "creation_time": 1744983525.2257514,
+                "auxillary_file_paths": [
+                    "results\\ZolaRLAgentV3\\ZolaRLAgentV3\\ZolaRLAgentV3-70423.pt"
+                ]
+            },
+            {
+                "steps": 79243,
+                "file_path": "results\\ZolaRLAgentV3\\ZolaRLAgentV3\\ZolaRLAgentV3-79243.onnx",
+                "reward": 1.4602714291272254,
+                "creation_time": 1744984703.7067425,
+                "auxillary_file_paths": [
+                    "results\\ZolaRLAgentV3\\ZolaRLAgentV3\\ZolaRLAgentV3-79243.pt"
+                ]
+            },
+            {
+                "steps": 99942,
+                "file_path": "results\\ZolaRLAgentV3\\ZolaRLAgentV3\\ZolaRLAgentV3-99942.onnx",
+                "reward": null,
+                "creation_time": 1744987291.710963,
+                "auxillary_file_paths": [
+                    "results\\ZolaRLAgentV3\\ZolaRLAgentV3\\ZolaRLAgentV3-99942.pt"
+                ]
+            },
+            {
+                "steps": 107154,
+                "file_path": "results\\ZolaRLAgentV3\\ZolaRLAgentV3\\ZolaRLAgentV3-107154.onnx",
+                "reward": 1.9043925512168143,
+                "creation_time": 1744988056.9476776,
+                "auxillary_file_paths": [
+                    "results\\ZolaRLAgentV3\\ZolaRLAgentV3\\ZolaRLAgentV3-107154.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 107154,
+            "file_path": "results\\ZolaRLAgentV3\\ZolaRLAgentV3.onnx",
+            "reward": 1.9043925512168143,
+            "creation_time": 1744988056.9476776,
+            "auxillary_file_paths": [
+                "results\\ZolaRLAgentV3\\ZolaRLAgentV3\\ZolaRLAgentV3-107154.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.6.0+cpu"
+    }
+}
